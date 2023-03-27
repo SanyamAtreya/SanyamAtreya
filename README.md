@@ -18,4 +18,4 @@ I'm a passionate software engineer with a love for both coding and travel. When 
 
 My journey as a software engineer started when I was young, tinkering with computers and discovering the endless possibilities of the internet. Since then, I've honed my skills in various programming languages and worked on a wide range of projects. 
 
-If you're interested in chatting about software engineering, travel, or anything in between, feel free to connect with me on Github. I'd love to hear from you! :) 
+If you're interested in chatting about software engineering, travel, or anything in between, feel free to connect with me on Github. I'd love to hear from you! :-)
