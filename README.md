@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a passionate software engineer with a love for both coding and travel. When I'm not busy writing code or debugging software, you'll likely find me exploring new destinations, trying new cuisines, and immersing myself in new cultures.
+
+My journey as a software engineer started when I was young, tinkering with computers and discovering the endless possibilities of the internet. Since then, I've honed my skills in various programming languages and worked on a wide range of projects. 
